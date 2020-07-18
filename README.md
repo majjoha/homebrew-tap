@@ -8,4 +8,4 @@ Simply run `brew tap majjoha/tap` to add the tap.
 * [`voxctl`](https://github.com/majjoha/voxctl)
 
 ## License
-See [LICENSE](https://github.com/majjoha/homebrew-tap/blob/master/LICENSE).
+See [LICENSE](https://github.com/majjoha/homebrew-tap/blob/main/LICENSE).
