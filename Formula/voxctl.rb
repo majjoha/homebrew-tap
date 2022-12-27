@@ -7,8 +7,6 @@ class Voxctl < Formula
   license "ISC"
   head "https://github.com/majjoha/voxctl.git"
 
-  bottle :uneeded
-
   def install
     bin.install "voxctl"
     zsh_completion.install "contrib/completion/_voxctl"
