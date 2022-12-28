@@ -1,9 +1,9 @@
 class Voxctl < Formula
   desc "Command-line tool for controlling the VOX music player"
   homepage "https://github.com/majjoha/voxctl"
-  url "https://github.com/majjoha/voxctl/archive/v1.1.1.tar.gz"
-  sha256 "2555a9ea6c74957b90b411df2d22ace1c62e09d7a13e2992f3c2f1524e3a143b"
-  version "1.1.1"
+  url "https://github.com/majjoha/voxctl/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "06eba63c25d28b374ddd8b37e0d41caacc5534b88c140a8f42bdfc92bb19ef3e"
+  version "1.2.0"
   license "ISC"
   head "https://github.com/majjoha/voxctl.git"
 
